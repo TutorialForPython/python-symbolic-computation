@@ -7,7 +7,7 @@
 
 ## 使用SymPy进行符号计算
 
-[SymPy](https://www.sympy.org/zh/index.html)是python环境下的符号计算库,他可以用于:
+[SymPy](https://www.sympy.org/zh/index.html)是python环境下的符号计算库,他主要用于:
 
 + 简化数学表达式
 + 计算微分,积分与极限
